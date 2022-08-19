@@ -1,0 +1,1 @@
+the .git folder created when cloning contain the info to connect to the distant github repo, such as we can push to it even if we move the local folder (assuming we move the .git with it) 
